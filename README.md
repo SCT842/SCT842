@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SCT842
+- 👋 Hi, I’m Sean Tefteller, my profile is @SCT842
 - 👀 I’m interested in ... html, css, and javascript
 - 🌱 I’m currently learning ... html
 - 💞️ I’m looking to collaborate on ... web dev and frontend dev
